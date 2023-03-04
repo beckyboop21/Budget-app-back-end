@@ -1,0 +1,43 @@
+.NewForm {
+    margin: 20px;
+    background-color: #eadc58;
+  }
+  
+  h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  input[type="number"] {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #100707;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  
+  input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .newSubmit {
+    background-color: #ff6347;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  

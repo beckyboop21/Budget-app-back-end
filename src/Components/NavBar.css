@@ -1,0 +1,29 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+  
+  .header {
+    text-align: center;
+    text-decoration: wavy;
+    font-size: 75px;
+    font-weight: 200;
+    background-color: rgb(42, 34, 184);
+    margin: 0 auto;
+    width: 1100px;
+  }
+
+
+.button {
+    text-align: center;
+    text-decoration: underline;
+    border-radius: 10px;
+    font-size: medium;
+    float: left;
+    background-color: #ADD8E6;
+  }
+  div{
+    background-color: blue;
+  }
+  
+
+
