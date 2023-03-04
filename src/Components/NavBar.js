@@ -6,7 +6,7 @@ export default function NavBar() {
   return (
     <nav>
       <h1 className="test">
-        <Link to="/">test-</Link>
+        <Link to="/">Home Page-</Link>
       </h1>
       <div className="bothnav-btn">
         <button className="nav-btn">

@@ -1,6 +1,8 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import './App.css';
-
+import './index.css';
+import '../src/Components/NavBar.css';
+import '../src/Components/NewFormEntry.css';
 
 import Edit from "./Pages/Edit";
 import FourOFour from "./Pages/FourOFour";

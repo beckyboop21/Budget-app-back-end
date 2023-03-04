@@ -4,7 +4,7 @@ function Home() {
       
       <div className="homepg-words">
         <h1>Welcome</h1>
-      <h2> The best Budget App for your Budget <i>BuG</i>, Here!</h2>
+      <h2> Budget App  <i>try us</i>, Here!</h2>
       <div>
         <img
           className='homepg-img'
@@ -14,9 +14,9 @@ function Home() {
           width={600}/>
           
       </div>
-       <h3>When Keeping Your Budget In Check, is Fun!
+       <h3>Bugeting made Fun ! 
       </h3>
-      <h3>and Spend what you can afford!</h3>
+      <h3>Spend what you can afford!</h3>
       </div>
       
      
